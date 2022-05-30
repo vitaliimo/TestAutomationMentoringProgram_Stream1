@@ -1,6 +1,18 @@
-This is a work repository for QA Automation Mentoring Program
+# QA Automation Mentoring Program
 
-To start work with this project you should have next capabilities:
-- Install Inteliij idea
-- Install Java and JDK
-- Install Maven
+## Prerequisites 
+
+Install IntelliJ IDEA
+Install Java and JDK
+Install Maven
+
+## How do we perform homework?
+
+1) Update the master branch
+2) Create your branch from the master branch (naming: initials_homeworkN - Example: vm_homework1)
+3) Implement homework
+4) Commit (with commit message) 
+4) Create a merge request
+5) Correct comments
+6) Merge!
+7) Repeat step 1 =)
